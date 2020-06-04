@@ -1,0 +1,263 @@
+{
+  "Actor": {
+    "types": [ "pj", "pdm" ],
+    "templates": {
+      "comum": {
+        "habilidades": {
+          "for": {
+            "valor": 10,
+            "mod": 0
+          },
+          "des": {
+            "valor": 10,
+            "mod": 0
+          },
+          "con": {
+            "valor": 10,
+            "mod": 0
+          },
+          "int": {
+            "valor": 10,
+            "mod": 0
+          },
+          "sab": {
+            "valor": 10,
+            "mod": 0
+          },
+          "car": {
+            "valor": 10,
+            "mod": 0
+          }
+        },
+        "atributos": {
+          "pv": {
+            "total": 0,
+            "atuais": 0
+          },
+          "acao": {
+            "valor": 0
+          },
+          "ca": {
+            "total": 10,
+            "base": 10,
+            "nivel": 0,
+            "mod": 0,
+            "armadura": 0,
+            "escudo": 0,
+            "tamanho": 0,
+            "outros": 0,
+            "outros2": 0
+          },
+          "reducao": {
+            "valor": 0
+          },
+          "resistencias": {
+            "fort": {
+              "total": 0,
+              "nivel": 0,
+              "mod": 0,
+              "outros": 0
+            },
+            "ref": {
+              "total": 0,
+              "nivel": 0,
+              "mod": 0,
+              "outros": 0
+            },
+            "von": {
+              "total": 0,
+              "nivel": 0,
+              "mod": 0,
+              "outros": 0
+            }
+          },
+          "ataques": {
+            "cac": {
+              "total": 0,
+              "bba": 0,
+              "habilidade": 0,
+              "tamanho": 0,
+              "outros": 0
+            },
+            "distancia": {
+              "total": 0,
+              "bba": 0,
+              "habilidade": 0,
+              "tamanho": 0,
+              "outros": 0
+            }
+          },
+          "deslocamento": {
+            "valor": 9
+          },
+          "habilidadeChave": "int"
+        },
+        "detalhes": {
+          "nome": "",
+          "jogador": "",
+          "raca": "",
+          "classe": [],
+          "tendencia": "",
+          "sexo": "",
+          "idade": "",
+          "divindade": "",
+          "tamanho": ""
+        },
+        "pericias": {
+          "acro": {
+            "total": 0,
+            "grad": 0,
+            "habilidade": "des",
+            "outros": 0,
+            "penalidade": true,
+            "treinado": false
+          },
+          "anim": {
+            "total": 0,
+            "grad": 0,
+            "habilidade": "car",
+            "outros": 0,
+            "penalidade": false,
+            "treinado": true
+          },
+          "atle": {
+            "total": 0,
+            "grad": 0,
+            "habilidade": "for",
+            "outros": 0,
+            "penalidade": true,
+            "treinado": false
+          },
+          "atua": {
+            "total": 0,
+            "grad": 0,
+            "habilidade": "car",
+            "outros": 0,
+            "penalidade": false,
+            "treinado": false
+          },
+          "cava": {
+            "total": 0,
+            "grad": 0,
+            "habilidade": "des",
+            "outros": 0,
+            "penalidade": false,
+            "treinado": false
+          },
+          "conh": {
+            "total": 0,
+            "grad": 0,
+            "habilidade": "int",
+            "outros": 0,
+            "penalidade": false,
+            "treinado": true
+          },
+          "cura": {
+            "total": 0,
+            "grad": 0,
+            "habilidade": "sab",
+            "outros": 0,
+            "penalidade": false,
+            "treinado": false
+          },
+          "dipl": {
+            "total": 0,
+            "grad": 0,
+            "habilidade": "car",
+            "outros": 0,
+            "penalidade": false,
+            "treinado": false
+          },
+          "enga": {
+            "total": 0,
+            "grad": 0,
+            "habilidade": "car",
+            "outros": 0,
+            "penalidade": false,
+            "treinado": false
+          },
+          "furt": {
+            "total": 0,
+            "grad": 0,
+            "habilidade": "des",
+            "outros": 0,
+            "penalidade": true,
+            "treinado": false
+          },
+          "iden": {
+            "total": 0,
+            "grad": 0,
+            "habilidade": "int",
+            "outros": 0,
+            "penalidade": false,
+            "treinado": true
+          },
+          "inic": {
+            "total": 0,
+            "grad": 0,
+            "habilidade": "des",
+            "outros": 0,
+            "penalidade": false,
+            "treinado": false
+          },
+          "inti": {
+            "total": 0,
+            "grad": 0,
+            "habilidade": "car",
+            "outros": 0,
+            "penalidade": false,
+            "treinado": false
+          },
+          "intu": {
+            "total": 0,
+            "grad": 0,
+            "habilidade": "sab",
+            "outros": 0,
+            "penalidade": false,
+            "treinado": false
+          },
+          "ladi": {
+            "total": 0,
+            "grad": 0,
+            "habilidade": "des",
+            "outros": 0,
+            "penalidade": false,
+            "treinado": true
+          },
+          "obte": {
+            "total": 0,
+            "grad": 0,
+            "habilidade": "car",
+            "outros": 0,
+            "penalidade": false,
+            "treinado": false
+          },
+          "ofic": {
+            "total": 0,
+            "grad": 0,
+            "habilidade": "int",
+            "outros": 0,
+            "penalidade": false,
+            "treinado": false
+          },
+          "perc": {
+            "total": 0,
+            "grad": 0,
+            "habilidade": "sab",
+            "outros": 0,
+            "penalidade": false,
+            "treinado": false
+          },
+          "sobr": {
+            "total": 0,
+            "grad": 0,
+            "habilidade": "sab",
+            "outros": 0,
+            "penalidade": false,
+            "treinado": false
+          }
+        }
+      }
+    }
+  }
+}
