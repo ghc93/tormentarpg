@@ -21,7 +21,7 @@
   "gridUnits": "m",
   "primaryTokenAttribute": "resources.pv",
   "secondaryTokenAttribute": "resources.pm",
-  "url": "",
-  "manifest": "",
-  "download": ""
+  "url": "https://github.com/ghc93/tormentarpg",
+  "manifest": "https://raw.githubusercontent.com/ghc93/tormentarpg/master/system.json",
+  "download": "https://drive.google.com/file/d/16bf1F63dPuhK6ykl8AV_T7RMvxSXa2pC/view?usp=sharing"
 }
